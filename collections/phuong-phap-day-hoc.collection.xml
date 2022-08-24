@@ -1,3 +1,25 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10902</md:content-id>  <md:title>phương pháp day học</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>c513b2ae-4056-448d-8f60-f014442aa352</md:uuid>
-<md:slug>phuong-phap-day-hoc</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>bài 2</md:title>                                <col:content>                  </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>bai 1</md:title>                                <col:content>                    <col:module document="m30095"/>                            <col:module document="m30153"/>                            <col:module document="m30313"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Ng&#xF4; Bichth&#x1EE7;y">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10902</md:content-id>
+    <md:title>ph&#x1B0;&#x1A1;ng ph&#xE1;p day h&#x1ECD;c</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>c513b2ae-4056-448d-8f60-f014442aa352</md:uuid>
+    <md:slug>phuong-phap-day-hoc</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>b&#xE0;i 2</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>bai 1</md:title>
+      <col:content>
+        <col:module document="m30095"/>
+        <col:module document="m30153"/>
+        <col:module document="m30313"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
